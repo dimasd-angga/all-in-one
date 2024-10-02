@@ -6,10 +6,14 @@
 /php/session/*
 !/php/data/.gitkeep
 !/php/session/.gitkeep
-/php/vendor
+temp_auto_push.bat
+/php/vendor/
+/php/.php-cs-fixer.cache
 
 /manual-install/*.conf
 !/manual-install/sample.conf
 /manual-install/docker-compose.yml
 /manual-install/compose.yaml
 /manual-install/.env
+.gitignore
+branch_structure.json
