@@ -5,6 +5,7 @@
 /php/data/*
 /php/session/*
 !/php/data/.gitkeep
+temp_auto_push.bat
 !/php/session/.gitkeep
 /php/vendor
 
@@ -13,3 +14,5 @@
 /manual-install/docker-compose.yml
 /manual-install/compose.yaml
 /manual-install/.env
+.gitignore
+branch_structure.json
