@@ -2,8 +2,11 @@
 /php/data/containers.json
 /php/data/configuration.json
 /php/data/backupsecret.json
+temp_auto_push.bat
 /php/vendor
 /manual-install/*.conf
 !/manual-install/sample.conf
 /manual-install/docker-compose.yml
 /manual-install/.env
+.gitignore
+branch_structure.json
